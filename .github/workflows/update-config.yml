@@ -84,7 +84,7 @@ jobs:
           git add config.txt
           
           if git diff-index --quiet HEAD; then
-            echo "Все серверы стабильны, зменений нет. Коммит отменён."
+            echo "Все серверы стабильны, изменений нет. Коммит отменён."
           else
             git commit -m "Auto-update: База обновлена."
             git push
