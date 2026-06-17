@@ -2,7 +2,7 @@ name: GrimVPN Whitelist Collector wcfv
 
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '*/9 * * * *'
   workflow_dispatch:
 
 permissions:
