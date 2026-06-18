@@ -3,7 +3,7 @@
 #announce: BEST CONFIG | WHITE LIST
 #support-url: https://t.me/GrimVpnBot
 #profile-web-page-url: https://grimvpn.github.io/
-#hide-settings: 1
+#hide-settings: 0
 
 hysteria2://be7441a663ef465566e3a6e441a16357@188.225.80.130:7443?insecure=1&pinSHA256=firefox&sni=tw-vds.t1n2.com#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
 hysteria2://be7441a663ef465566e3a6e441a16357@188.225.80.130:7443?sni=tw-vds.t1n2.com&pinSHA256=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
