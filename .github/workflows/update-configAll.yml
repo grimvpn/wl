@@ -70,7 +70,7 @@ jobs:
           with ThreadPoolExecutor(max_workers=30) as executor:
               results = executor.map(check_node, lines)
 
-          with open("config.txt", "a") as out_f:
+          with open("configAll.txt", "a") as out_f:
               for res in results:
                   if res:
                       out_f.write(res + "\n")
