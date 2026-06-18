@@ -85,10 +85,6 @@ jobs:
           
           git add configAll.txt
           
-          if git diff-index --quiet HEAD; then
-            echo "Все серверы стабильны, изменений нет. Коммит отменён."
-          else
-            git commit -m "Auto-update: База обновлена."
-            git pull --rebase origin main
-            git push
-          fi
+          git commit --allow-empty -m "Auto-update: База обновлена (ALL)."
+          git pull --rebase origin main
+          git push
