@@ -1,4 +1,4 @@
-name: GrimVPN Whitelist Collector
+name: GrimVPN Whitelist Collector ALL
 
 on:
   schedule:
