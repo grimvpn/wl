@@ -87,5 +87,6 @@ jobs:
             echo "Все серверы стабильны, изменений нет. Коммит отменён."
           else
             git commit -m "Auto-update: База обновлена."
+            git pull --rebase origin main
             git push
           fi
