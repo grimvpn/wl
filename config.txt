@@ -1,6 +1,6 @@
 #profile-title: GrimVPN WL
 #profile-update-interval: 12
-#announce: BEST CONFIG | WHITE LIST
+#announce: BEST CONFIG | WHITE LIST test
 #support-url: https://t.me/GrimVpnBot
 #profile-web-page-url: https://grimvpn.github.io/
 #hide-settings: 1
