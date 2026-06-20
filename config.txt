@@ -3,7 +3,7 @@
 #announce: BEST CONFIG | WHITE LIST
 #support-url: https://t.me/GrimVpnBot
 #profile-web-page-url: https://grimvpn.github.io/
-#hide-settings: 0
+#hide-settings: 1
 
 hysteria2://43bcba7d-cd22-379c-a7da-2e8eafecbc78@193.142.59.97:443?headerType=none&encryption=none&sni=u711540us1244.csgfw.top&insecure=0#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B3%F0%9F%87%B1%20%5B%2ACIDR%5D
 hysteria2://43bcba7d-cd22-379c-a7da-2e8eafecbc78@193.142.59.97:443?insecure=1&sni=u711540us1244.csgfw.top#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B3%F0%9F%87%B1%20%5B%2ACIDR%5D
