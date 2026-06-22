@@ -1,4 +1,4 @@
-name: GrimVPN Whitelist Collector test
+name: GrimVPN Whitelist Collector Test
 
 on:
   # schedule:
@@ -18,7 +18,7 @@ jobs:
 
       - name: Fetch, Filter, Verify Connections & Build Config
         run: |
-          cat << 'EOF' > config.txt
+          cat << 'EOF' > configtest.txt
           #profile-title: GrimVPN WL
           #profile-update-interval: 12
           #announce: BEST CONFIG | WHITE LIST
@@ -81,7 +81,7 @@ jobs:
                       out_f.write(res + "\n")
           '
 
-          rm temp_connections.txt
+          rm -f temp_connections.txt
 
       - name: Commit and Push changes
         run: |
@@ -92,16 +92,10 @@ jobs:
           
           git commit --allow-empty -m "Auto-update: База обновлена (ping filter)."
           
-          # Умный цикл с защитой от одновременных запусков
-          for i in 1 2 3 4 5; do
-            git pull --rebase origin main
-            if git push origin HEAD:main; then
-              echo "Успешно запушено!"
-              exit 0
-            fi
-            echo "Кто-то успел обновить базу первым. Ждём 5 секунд и пробуем снова..."
-            sleep 5
-          done
+          # Жестко очищаем рабочую директорию от любого незакоммиченного мусора перед пулом
+          git reset --hard
+          git clean -fd
           
-          echo "Ошибка: не удалось отправить изменения после 5 попыток."
-          exit 1
+          # Твой оригинальный и привычный метод защиты
+          git pull --rebase origin main
+          git push
