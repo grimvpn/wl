@@ -1,0 +1,107 @@
+name: GrimVPN Whitelist Collector
+
+on:
+  # schedule:
+  #   - cron: '0 * * * *'
+  workflow_dispatch: 
+
+permissions:
+  contents: write 
+
+jobs:
+  update-config:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch, Filter, Verify Connections & Build Config
+        run: |
+          cat << 'EOF' > config.txt
+          #profile-title: GrimVPN WL
+          #profile-update-interval: 12
+          #announce: BEST CONFIG | WHITE LIST
+          #support-url: https://t.me/GrimVpnBot
+          #profile-web-page-url: https://grimvpn.github.io/
+          #hide-settings: 0
+          EOF
+
+          echo "" >> configtest.txt
+
+          {
+            curl -sSL "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-all.txt"
+            echo ""
+            curl -sSL "https://raw.githubusercontent.com/zieng2/wl/refs/heads/main/vless_universal.txt"
+            echo ""
+          } | sed 's/\r$//' | grep -vE '^\s*#|^\s*$' | sort -u > temp_connections.txt
+
+          python3 -c '
+          import re
+          import socket
+          import time
+          from concurrent.futures import ThreadPoolExecutor
+
+          pattern = re.compile(r"@([^:/?#\s]+):([0-9]+)")
+
+          def check_node(line):
+              line = line.strip()
+              if not line:
+                  return None
+              match = pattern.search(line)
+              if match:
+                  host = match.group(1)
+                  port = int(match.group(2))
+                  try:
+                      with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as sock:
+                          sock.settimeout(1.5)
+                          
+                          start_time = time.time()
+                          result = sock.connect_ex((host, port))
+                          end_time = time.time()
+                          
+                          latency = (end_time - start_time) * 1000
+                          
+                          if result == 0 and latency <= 750:
+                              return line
+                  except Exception:
+                      pass
+                  return None
+              return line
+
+          with open("temp_connections.txt", "r") as f:
+              lines = f.readlines()
+
+          with ThreadPoolExecutor(max_workers=30) as executor:
+              results = executor.map(check_node, lines)
+
+          with open("configtest.txt", "a") as out_f:
+              for res in results:
+                  if res:
+                      out_f.write(res + "\n")
+          '
+
+          rm temp_connections.txt
+
+      - name: Commit and Push changes
+        run: |
+          git config --local user.email "grimvpncorporation@gmail.com"
+          git config --local user.name "grimvpn"
+          
+          git add configtest.txt
+          
+          git commit --allow-empty -m "Auto-update: База обновлена (ping filter)."
+          
+          # Умный цикл с защитой от одновременных запусков
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin main
+            if git push origin HEAD:main; then
+              echo "Успешно запушено!"
+              exit 0
+            fi
+            echo "Кто-то успел обновить базу первым. Ждём 5 секунд и пробуем снова..."
+            sleep 5
+          done
+          
+          echo "Ошибка: не удалось отправить изменения после 5 попыток."
+          exit 1
