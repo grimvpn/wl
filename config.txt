@@ -71,7 +71,6 @@ hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?sni=fta.f
 hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?sni=fta.fontanvpn.com&burmalda=f3ababc1&__rand=025d5f55&descriptions=141#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
 hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?sni=fta.fontanvpn.com&burmalda=f3ababc1&__rand=025d5f55&seq=you_are_beautiful6140#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
 hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?sni=fta.fontanvpn.com&insecure=0&__rand=025d5f55&_t=ececfc53&descriptions=%D0%BB%D1%8E%D0%B1%D0%B8_%D1%81%D0%B5%D0%B1%D1%8F95faf3#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
-hysteria2://c059a786-3a03-4300-9ace-4f9cda0f360c@wlte.nimarko.org:8465?sni=itit.nimarko.org&insecure=0&allowInsecure=0#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
 hysteria2://c059a786-3a03-4300-9ace-4f9cda0f360c@wlte3.nimarko.org:8444?sni=testing8.nimarko.org&insecure=0&allowInsecure=0#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20VK
 hysteria2://c059a786-3a03-4300-9ace-4f9cda0f360c@wlte8.nimarko.org:8450?sni=testing6.nimarko.org&insecure=0&allowInsecure=0#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20VK
 vless://061d97e2-4f3e-417c-9f94-ea6fdbea4829@195.209.88.195:443?encryption=none&type=ws&security=tls&path=%2Fv1%2Fdata%2Fsync%2F&fp=chrome&sni=cdn-discover.truesight.store&alpn=http%2F1.1#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%2354
