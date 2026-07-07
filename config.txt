@@ -108,12 +108,12 @@ vless://347166e5-b4ee-487a-8b8a-aadf99ffb9f2@176.123.165.127:57836?encryption=no
 vless://347166e5-b4ee-487a-8b8a-aadf99ffb9f2@176.123.165.127:57836?type=raw&security=none&fp=firefox#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20%5B%2ACIDR%5D
 vless://347166e5-b4ee-487a-8b8a-aadf99ffb9f2@192.144.13.35:42942?encryption=none&type=raw&security=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2352
 vless://347166e5-b4ee-487a-8b8a-aadf99ffb9f2@192.144.13.35:45079?encryption=none&security=none&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-vless://347166e5-b4ee-487a-8b8a-aadf99ffb9f2@192.144.13.35:45079?encryption=none&type=raw&security=none#%F0%9F%87%B7%F0%9F%87%BA%20cloud.ru%20%E2%80%94%20%2337
 vless://347166e5-b4ee-487a-8b8a-aadf99ffb9f2@192.144.13.35:45079?type=tcp&security=none&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
 vless://347166e5-b4ee-487a-8b8a-aadf99ffb9f2@192.144.13.35:59242?encryption=none&security=none&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
 vless://347166e5-b4ee-487a-8b8a-aadf99ffb9f2@192.144.13.35:59242?encryption=none&type=raw&security=none#%F0%9F%87%B7%F0%9F%87%BA%20cloud.ru%20%E2%80%94%20%2338
 vless://347166e5-b4ee-487a-8b8a-aadf99ffb9f2@192.144.13.35:59242?type=raw&security=none&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
 vless://3483aa7a-8a7d-4561-8f77-4fbf7a0b1033@45.10.246.207:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=sun6-20.userapi.com&pbk=uemqA7VkHB7Xw_gc88AfbBijEJgiWaVdCiIyMae8CSI#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23222
+vless://3483aa7a-8a7d-4561-8f77-4fbf7a0b1033@5.188.115.226:9443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=ns&fp=firefox&sni=id.pervye.ru&pbk=QZz4tjRkxYsgTZBlRALOQU4O5YnAGtSGkXF8OSX11m8#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20%E2%80%94%20%23366
 vless://35a14133-45f6-40bc-a9cd-918fd0ecb345@185.22.234.32:7443?encryption=none&type=ws&security=tls&path=%2Fws&fp=qq&sni=mms-2.hysteria.ltd#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23114
 vless://35a14133-45f6-40bc-a9cd-918fd0ecb345@185.86.145.231:5443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=chrome&sni=max.ru&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%2324
 vless://35a14133-45f6-40bc-a9cd-918fd0ecb345@185.86.145.231:5443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=max.ru&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%2325
