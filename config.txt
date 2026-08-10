@@ -611,6 +611,7 @@ vless://aef0e934-09d7-4b8f-b3bc-de78d2eec928@194.26.229.220:4100?encryption=none
 vless://aef0e934-09d7-4b8f-b3bc-de78d2eec928@45.90.32.132:2200?type=ws&security=none&path=/v1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
 vless://af325624-e28d-44fd-a8a7-058a439d128f@194.26.229.218:2200?encryption=none&path=%2Fv1&security=none&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Xorek.Cloud%20%E2%80%94%20%23129
 vless://af325624-e28d-44fd-a8a7-058a439d128f@5.129.194.34:4100?encryption=none&path=%2Fv1&security=none&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Timeweb%20%E2%80%94%20%2389
+vless://b1b3e430-ff52-44b8-b95d-27fa580fbc4f@188.120.235.185:443?encryption=none&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 vless://b1cf484e-651f-432b-b086-f148e010669e@161.104.17.189:8880?type=ws&path=%2Frutube&host=rutube.ummapeople.online&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 vless://b1cf484e-651f-432b-b086-f148e010669e@80.78.245.48:8880?type=ws&path=%2Frutube&host=rutube.ummapeople.online&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 vless://b251ec8f-47ec-4ab4-8bd2-13ac333a4100@176.109.85.140:9441?encryption=none&fp=chrome&mode=gun&pbk=xTk5dX6E0DGuQj19bWDMafx13XoUK8euqlmtwJIg8wY&security=reality&serviceName=grpc-tuning-stream&sid=8a7137d4e9c49b9c&sni=max.ru&type=grpc#%F0%9F%87%B7%F0%9F%87%BA%20cloud.ru%20%E2%80%94%20%2321
