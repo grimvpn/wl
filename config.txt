@@ -6,7 +6,6 @@
 #hide-settings: 0
 
 ss://YWVzLTEyOC1nY206WjNKQ2JFd3hVRE42UjJKeU5EVXlZVXRNUnpNMU5XWm9ZbFpGTVZaT1UzcFNhbTgyYlZod1dsVTFVREpSVEhWNVZXMDVkbEpOVm5waWIzZDRjbkJQTXc9PQ@200.169.178.86:50070#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@194.38.11.86:65443#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
 ss://YWVzLTI1Ni1nY206ODFhMjA0MjkxNjVkZjg3ZQ==@195.133.23.200:60606#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 ss://YWVzLTI1Ni1nY206YmRiMzEzYWRmNzRjMmVkZQ==@46.17.40.234:60110#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 vless://0b21c2e9-311c-49b9-94bc-fdceecb06b08@188.225.57.227:443?encryption=none&extra=null&fp=firefox&host=cdn.nodes.ac&mode=auto&path=%2Fapi%2Fv2%2Fmedia%2Fstream&pbk=oQqnxLVZveJ_o8SpbvRf6DW02pbK0_J7oH_vkLEQPVo&security=reality&sid=90f9ae53d5e0a696&sni=cdn.nodes.ac&spx=%2F&type=xhttp#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%E2%80%94%20%23121
@@ -188,9 +187,7 @@ vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@176.108.245.3:443?encryption=none&f
 vless://af412668-578c-4296-bc8c-8fac6a8d9003@201.24.49.237:2200?encryption=none&security=none&sni=rzd.ru&type=ws&path=/v1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 vless://b712ae49-e20f-44d9-ae80-b81f399c5a3a@147.45.100.79:2053?encryption=none&fp=chrome&security=tls&sni=bz16.wba-pn.ru&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23131
 vless://b712ae49-e20f-44d9-ae80-b81f399c5a3a@147.45.100.79:2053?encryption=none&fp=safari&security=tls&sni=bz16.wba-pn.ru&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23135
-vless://ba222add-6ac1-45f1-9a18-f91cb38e324f@201.51.1.84:16923?encryption=none&fp=chrome&mode=gun&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&security=reality&serviceName=neurex&sid=10ffb85da1c2d986&sni=api-maps.yandex.ru&type=grpc#%F0%9F%87%B7%F0%9F%87%BA%20Timeweb%20%E2%80%94%20%2335
 vless://ba222add-6ac1-45f1-9a18-f91cb38e324f@201.51.1.84:16923?encryption=none&fp=edge&mode=gun&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&security=reality&serviceName=neurex&sid=10ffb85da1c2d986&sni=api-maps.yandex.ru&type=grpc#%F0%9F%87%B7%F0%9F%87%BA%20Timeweb%20%E2%80%94%20%2319
-vless://ba222add-6ac1-45f1-9a18-f91cb38e324f@201.51.1.84:16923?encryption=none&fp=firefox&mode=gun&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&security=reality&serviceName=neurex&sid=10ffb85da1c2d986&sni=api-maps.yandex.ru&type=grpc#%F0%9F%87%B7%F0%9F%87%BA%20Timeweb%20%E2%80%94%20%2333
 vless://ba222add-6ac1-45f1-9a18-f91cb38e324f@201.51.1.84:16923?encryption=none&mode=gun&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&security=reality&serviceName=neurex&sid=10ffb85da1c2d986&sni=api-maps.yandex.ru&type=grpc#%F0%9F%87%B7%F0%9F%87%BA%20Timeweb%20%E2%80%94%20%2324
 vless://bd7501b8-5c29-4b4d-a060-76446349c835@62.113.37.80:2053?encryption=none&fp=edge&security=tls&sni=bz11.wba-pn.ru&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23138
 vless://bfb7e45e-ef3b-49b3-a337-111266db6f58@185.141.227.240:8443?encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=uYiZWRgbowvS9uOhVZTe0FBS1pLzA3QMyQ_NfDh4_h8&security=reality&sid=023d4c88fb030f39&sni=optim.tildacdn.pub&type=raw#%F0%9F%87%AB%F0%9F%87%B7%20France%20%E2%80%94%20%2388
