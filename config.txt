@@ -5,12 +5,8 @@
 #profile-web-page-url: https://grimvpn.github.io/
 #hide-settings: 0
 
-trojan://wYQ9WYorgO@213.171.27.80:37490?security=none&type=raw&fp=edge#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 trojan://wYQ9WYorgO@213.171.27.80:37490?security=none&type=raw&fp=ios#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
-trojan://wYQ9WYorgO@213.171.27.80:37490?security=none&type=raw&fp=safari#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-trojan://wYQ9WYorgO@213.171.27.80:37510?security=none&type=raw&fp=android#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-trojan://wYQ9WYorgO@213.171.27.80:37510?security=none&type=raw&fp=edge#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
-trojan://wYQ9WYorgO@213.171.27.80:37510?security=none&type=raw&fp=qq#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
+trojan://wYQ9WYorgO@213.171.27.80:37510?security=none&type=raw&fp=ios#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@84.201.180.13:443?encryption=none&extra=null&fp=firefox&host=api-maps.yandex.ru&pbk=DuxQy3KWEZTU_sBhXSfeo_1Q0-0lMcSnx21bWvUi5hQ&security=reality&sni=api-maps.yandex.ru&type=xhttp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%2361
 vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@84.201.180.13:443?encryption=none&extra=null&fp=firefox&pbk=DuxQy3KWEZTU_sBhXSfeo_1Q0-0lMcSnx21bWvUi5hQ&security=reality&sni=api-maps.yandex.ru&type=xhttp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%2362
 vless://233b470d-9ba4-41a1-a020-b4e7587fac0d@185.22.235.181:443?encryption=none&fp=firefox&mode=gun&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&security=reality&serviceName=grpc-vk&sid=428ef87fd47a3a33&sni=ads.x5.ru&spx=%2F&type=grpc#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%2354
