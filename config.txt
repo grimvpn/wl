@@ -5,7 +5,6 @@
 #profile-web-page-url: https://grimvpn.github.io/
 #hide-settings: 0
 
-hysteria2://ff3e812e-be77-4138-a657-dd9c0690ffde@miya.kosmolet.me:443?alpn=h3&fm=%7B%22quicParams%22%3A%7B%22congestion%22%3A%22bbr%22%2C%22debug%22%3Afalse%7D%7D&sni=miya.kosmolet.me#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 vless://0dca2cfe-98eb-4f9d-9a47-cf87510c558b@178.236.254.65:443?encryption=none&fp=firefox&security=tls&serviceName=cdn.v1.AssetService&sni=assets-us.pleiades.codes&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 vless://0dca2cfe-98eb-4f9d-9a47-cf87510c558b@45.132.177.76:443?encryption=none&fp=firefox&security=tls&serviceName=cdn.v1.DeService&sni=ru3.pleiades.codes&type=grpc#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 vless://0dca2cfe-98eb-4f9d-9a47-cf87510c558b@45.132.177.76:443?encryption=none&fp=firefox&security=tls&serviceName=cdn.v1.EsService&sni=ru3.pleiades.codes&type=grpc#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%5B%2ACIDR%5D
