@@ -5,7 +5,6 @@
 #profile-web-page-url: https://grimvpn.github.io/
 #hide-settings: 0
 
-hysteria2://19f72087-4591-4d72-930b-2697078ec2be@ru.xiaoliyu.cyou:18333?insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 vless://0dca2cfe-98eb-4f9d-9a47-cf87510c558b@ru4.pleiades.codes:443?encryption=none&security=tls&sni=ru4.pleiades.codes&alpn=h2&type=grpc&serviceName=cdn.v1.NlService&fp=android#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B3%F0%9F%87%B1%20%7C%20%5B%2ACIDR%5D
 vless://0dca2cfe-98eb-4f9d-9a47-cf87510c558b@ru4.pleiades.codes:443?encryption=none&security=tls&sni=ru4.pleiades.codes&alpn=h2&type=grpc&serviceName=cdn.v1.NlService&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B3%F0%9F%87%B1%20%7C%20%5B%2ACIDR%5D
 vless://0dca2cfe-98eb-4f9d-9a47-cf87510c558b@ru4.pleiades.codes:443?encryption=none&security=tls&sni=ru4.pleiades.codes&alpn=h2&type=grpc&serviceName=cdn.v1.NlService&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B3%F0%9F%87%B1%20%7C%20%5B%2ACIDR%5D
