@@ -7,17 +7,17 @@
 
 404: Not Found
 trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&insecure=1&allowInsecure=1&fp=android#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
+trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&insecure=1&allowInsecure=1&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
+trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&insecure=1&allowInsecure=1&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
 trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&insecure=1&allowInsecure=1&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
 trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&insecure=1&allowInsecure=1&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
 trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me%2FFuckTheWall&fp=android#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
-trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me%2FFuckTheWall&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
 trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me%2FFuckTheWall&fp=ios#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
 trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me%2FFuckTheWall&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
 trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me%2FFuckTheWall&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
 trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&sni=de-bots4.h1cloud.net&insecure=1&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
 trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&sni=de-bots4.h1cloud.net&insecure=1&allowInsecure=1&type=tcp&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
 trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&sni=de-bots4.h1cloud.net&insecure=1&allowInsecure=1&type=tcp&fp=ios#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
-trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&sni=de-bots4.h1cloud.net&insecure=1&allowInsecure=1&type=tcp&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
 trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&sni=de-bots4.h1cloud.net&insecure=1&allowInsecure=1&type=tcp&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
 trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&sni=t.me%2FFuckTheWall&alpn=http%2F1.1&insecure=1&type=tcp&fp=android#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
 trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&sni=t.me%2FFuckTheWall&alpn=http%2F1.1&insecure=1&type=tcp&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
@@ -108,6 +108,7 @@ vless://d16f7276-b967-440d-88b7-76945654ed55@193.58.179.199:443?encryption=none&
 vless://d16f7276-b967-440d-88b7-76945654ed55@194.55.239.135:443?encryption=none&host=tavrmed.store&path=%2Fapi%2Fv2%2Fsession%2FhyFtIjt3PxiC&security=tls&sni=tavrmed.store&type=ws#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%2394
 vless://d16f7276-b967-440d-88b7-76945654ed55@45.9.24.199:443?encryption=none&host=agrosnab-stv.biz&path=%2Fcheckout%2Fstep%2FMWeiRsOvUZDA&security=tls&sni=agrosnab-stv.biz&type=ws#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%E2%80%94%20%235
 vless://d16f7276-b967-440d-88b7-76945654ed55@82.202.190.80:443?encryption=none&host=doneby.app&path=%2Fapp%2Flive%2F8ae9af9e995571de&security=tls&sni=doneby.app&type=ws#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%E2%80%94%20%236
+vless://d16f7276-b967-440d-88b7-76945654ed55@91.185.83.226:443?encryption=none&extra=null&fp=firefox&host=www.sportshkola-olimp.com&mode=auto&path=%2F20a2e5ee79b7&pbk=HdBwyYF-VPrdSeIkn4LOB6pyAv6yD58QUIjqfW0H60w&security=reality&sid=9859c4395035e221&sni=www.sportshkola-olimp.com&type=xhttp#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%E2%80%94%20%2333
 vless://e2441ec8-2ad3-4d20-8056-3c74195dc1b5@200.169.184.140:443?security=tls&sni=basterdym.asia&alpn=h2&type=grpc&serviceName=glush.de1.v1&mode=gun&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
 vless://e2441ec8-2ad3-4d20-8056-3c74195dc1b5@200.169.184.140:443?security=tls&sni=basterdym.asia&alpn=h2&type=grpc&serviceName=glush.de1.v1&mode=gun&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
 vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?alpn=h2&encryption=none&extra=null&fp=chrome&host=api.bakarova-top.ru&mode=packet-up&path=%2Fapi%2Fv2%2Fevents&security=tls&sni=api.bakarova-top.ru&type=xhttp#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%E2%80%94%20%2370
