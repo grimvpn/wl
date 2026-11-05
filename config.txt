@@ -5,7 +5,6 @@
 #profile-web-page-url: https://grimvpn.github.io/
 #hide-settings: 0
 
-hysteria2://e5573253-44fc-4502-ba06-96e4742bb448@193.233.245.205:443?sni=podcasts.radiopult.net#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B%2ACIDR%5D
 hysteria2://e5573253-44fc-4502-ba06-96e4742bb448@45.151.101.188:443?sni=radiopult.net#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B%2ACIDR%5D
 hysteria2://e5573253-44fc-4502-ba06-96e4742bb448@45.151.101.32:443?sni=live.kinopolka.net#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B%2ACIDR%5D
 vless://00d09ead-4080-4c39-a75d-be7dcabe77f4@217.19.122.170:2053?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=GyYuIjccJJRQZM72MGdBQEwGwGR9e0UMNlJxw0sQR2M&security=reality&sid=38560e0003d69843&sni=bm1.hat.onl&type=raw#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20%E2%80%94%20%232
